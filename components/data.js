@@ -11,23 +11,23 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Habilidades de desarrollo web",
+  desc: "Algunas de las tecnologías y habilidades que utilizo para el desarrollo de aplicaciones web.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Javascript + ReactJS + NextJS",
+      desc: "Desarrollo de aplicaciones serverless web y wpas",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "MongoDB",
+      desc: "Manejo de base de datos con Mongo DB Atlas",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Diseño UX/UI",
+      desc: "Desarrollo y diseño de interfaz y experiencia de usuario",
       icon: <CursorArrowRaysIcon />,
     },
   ],
